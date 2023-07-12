@@ -30,4 +30,5 @@ main() {
   total = (a ?? 0) + b;
 
   print(a);
-}
+  print(b);
+print(total);}
